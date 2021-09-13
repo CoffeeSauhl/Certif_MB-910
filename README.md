@@ -34,6 +34,7 @@ Espace d'entrainement pour MB-910
 - Linkedin Campaign Manager  ??
     - Generate leads from linkedin
     - Schedule and publish social posts
+    - Build and manage ad campaigns in LinkedIn.
 
 
 ## Dynamics 365 Customer Service
@@ -61,4 +62,3 @@ Espace d'entrainement pour MB-910
 
 # Notes:
 - SLAs are different to KPIs. SLAs are documents that outline the wider service agreements between a service provider and its customers, while KPIs are generally used to measure the performance of companies against their strategic goals.
-- Linnkedin Compain Manager: LinkedIn Campaign is for building and managing ad campaigns in LinkedIn.
