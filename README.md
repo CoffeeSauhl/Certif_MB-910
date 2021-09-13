@@ -16,7 +16,7 @@ Espace d'entrainement pour MB-910
 
 
 
-## Dynamics 365 Maketing
+## Dynamics 365 Marketing
 
 ### Included
 - Core marketing
@@ -32,7 +32,13 @@ Espace d'entrainement pour MB-910
 
 
 ## Dynamics 365 Customer Service
- 
+
+### Included
+- Omnichannel
+
+
+### Add-on
+ - Connected Customer Service
  
  ---
 
