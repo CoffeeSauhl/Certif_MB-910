@@ -8,8 +8,14 @@ Espace d'entrainement pour MB-910
 
 
 
+> Functions
+>> Auto-Capture : looks from messages sent to or from relevant E-mail adresses
+
+
+
 ### Add-on
 - Sales insight ?
+    - Relationship Analytics
 
 
 ## Field Service
