@@ -61,4 +61,4 @@ Espace d'entrainement pour MB-910
 
 # Notes:
 - SLAs are different to KPIs. SLAs are documents that outline the wider service agreements between a service provider and its customers, while KPIs are generally used to measure the performance of companies against their strategic goals.
--Linnkedin Compain Manager: LinkedIn Campaign is for building and managing ad campaigns in LinkedIn.
+- Linnkedin Compain Manager: LinkedIn Campaign is for building and managing ad campaigns in LinkedIn.
