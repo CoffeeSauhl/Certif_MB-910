@@ -7,6 +7,11 @@ Espace d'entrainement pour MB-910
   - Linkedin Sales Navigator
 
 
+
+### Add-on
+- Sales insight ?
+
+
 ## Field Service
 - Resource Schedueling Optimisation (RSO)
 
