@@ -46,6 +46,7 @@ Espace d'entrainement pour MB-910
  - Connected Customer Service
  > Azure IoT Hub
  >> Service for intefration environmental sensors
+ >
  > Azure IoT Central
  >> Service for configuring integrations between Customer Service app and environmental sensors
  >> Rules and actions that execute the integration between environmental sensors and Customer Service app
