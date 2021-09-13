@@ -34,8 +34,7 @@ Espace d'entrainement pour MB-910
 ## Dynamics 365 Customer Service
  
  
-``` 
- ## Notes:
+``
+ Notes:
 - SLAs are different to KPIs. SLAs are documents that outline the wider service agreements between a service provider and its customers, while KPIs are generally used to measure the performance of companies against their strategic goals.
-```
- 
+``
