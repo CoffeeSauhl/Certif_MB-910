@@ -19,14 +19,14 @@ Espace d'entrainement pour MB-910
 ## Dynamics 365 Maketing
 
 ### Included
-Core marketing
-Event management
-Dynamics 365 Customer Voice ??
-Dynamics 365 Connector for LinkedIn Lead Gen Forms
+- Core marketing
+- Event management
+- Dynamics 365 Customer Voice ??
+- Dynamics 365 Connector for LinkedIn Lead Gen Forms
 
+### Add-on
 - Customer Insight ?
-- Event manager
-- Linkedin Campaign Manager
+- Linkedin Campaign Manager  ??
           - Generate leads from linkedin
           - Schedule and publish social posts
 
