@@ -39,7 +39,7 @@ Espace d'entrainement pour MB-910
 ## Dynamics 365 Customer Service
 
 ### Included
-- Omnichannel
+- Omnichannel ¡!
 
 
 ### Add-on
