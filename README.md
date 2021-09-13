@@ -51,6 +51,8 @@ Espace d'entrainement pour MB-910
  >> Service for configuring integrations between Customer Service app and environmental sensors
  >> Rules and actions that execute the integration between environmental sensors and Customer Service app
  >> Integrates IoT Hub
+
+[Differences between Central & Hub](https://stackoverflow.com/questions/56425557/what-is-the-difference-between-azure-iot-hub-and-azure-iot-central/56425827)
         
  
  ---
