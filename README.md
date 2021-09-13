@@ -32,8 +32,8 @@ Espace d'entrainement pour MB-910
 ### Add-on
 - Customer Insight ?
 - Linkedin Campaign Manager  ??
-          - Generate leads from linkedin
-          - Schedule and publish social posts
+    - Generate leads from linkedin
+    - Schedule and publish social posts
 
 
 ## Dynamics 365 Customer Service
