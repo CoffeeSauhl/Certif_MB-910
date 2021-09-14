@@ -33,12 +33,12 @@ Espace d'entrainement pour MB-910
 ### Included
 - Core marketing
 - Event management
-- Dynamics 365 Customer Voice ??
+- Dynamics 365 Customer Voice
 - Dynamics 365 Connector for LinkedIn Lead Gen Forms
 
 ### Add-on
-- Customer Insight ?
-- Linkedin Campaign Manager  ??
+- Customer Insight 
+- Linkedin Campaign Manager 
     - Generate leads from linkedin
     - Schedule and publish social posts
     - Build and manage ad campaigns in LinkedIn.
@@ -46,12 +46,11 @@ Espace d'entrainement pour MB-910
 
 ## Dynamics 365 Customer Service
 
-### Included
-- Omnichannel ¡!
+
+- Omnichannel for Customer Service
 
 
-### Add-on
- - Connected Customer Service
+- Connected Customer Service
  > Azure IoT Hub
  >> Service for integration environmental sensors
  >
@@ -62,9 +61,10 @@ Espace d'entrainement pour MB-910
  > 
  > [Differences between Central & Hub](https://stackoverflow.com/questions/56425557/what-is-the-difference-between-azure-iot-hub-and-azure-iot-central/56425827)
   
+  
+- Customer Service Insight
    
-        
- 
+
  ---
 
 # Notes:
