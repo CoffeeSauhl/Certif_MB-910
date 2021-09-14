@@ -2,18 +2,19 @@
 Espace d'entrainement pour MB-910
 
 ## Dynamics 365 Sales
+
+
+
+
+### Add-on
 - Microsoft Relationship Sales Solution
   - Dynamics 365 Sales Entreprise
   - Linkedin Sales Navigator
-
-
 
 > Functions
 >> Auto-Capture : looks from messages sent to or from relevant E-mail adresses
 
 
-
-### Add-on
 - Sales insight ?
     - Relationship Analytics
 
